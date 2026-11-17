@@ -1,1 +1,35 @@
-
+{
+  "description": "NBA period starters derived from archived rotation intervals. Overrides apply only when event inference cannot identify five starters.",
+  "archive_commit": "0bca6cf72d9f879140148882657affc1591efd13",
+  "sha256": "fa97acd141a2166b8bb1ce9cd38ae77158cf88c4f8d346adf9d65f6fa5f66dbe",
+  "sources": [
+    {
+      "game_id": "0022300162",
+      "source": "https://raw.githubusercontent.com/sportsdataverse/hoopR-nba-stats-raw/0bca6cf72d9f879140148882657affc1591efd13/nba_stats/json/gamerotation/2024/0022300162.json"
+    },
+    {
+      "game_id": "0022400223",
+      "source": "https://raw.githubusercontent.com/sportsdataverse/hoopR-nba-stats-raw/0bca6cf72d9f879140148882657affc1591efd13/nba_stats/json/gamerotation/2025/0022400223.json"
+    },
+    {
+      "game_id": "0022400230",
+      "source": "https://raw.githubusercontent.com/sportsdataverse/hoopR-nba-stats-raw/0bca6cf72d9f879140148882657affc1591efd13/nba_stats/json/gamerotation/2025/0022400230.json"
+    },
+    {
+      "game_id": "0022400501",
+      "source": "https://raw.githubusercontent.com/sportsdataverse/hoopR-nba-stats-raw/0bca6cf72d9f879140148882657affc1591efd13/nba_stats/json/gamerotation/2025/0022400501.json"
+    },
+    {
+      "game_id": "0022401131",
+      "source": "https://raw.githubusercontent.com/sportsdataverse/hoopR-nba-stats-raw/0bca6cf72d9f879140148882657affc1591efd13/nba_stats/json/gamerotation/2025/0022401131.json"
+    },
+    {
+      "game_id": "0022401162",
+      "source": "https://raw.githubusercontent.com/sportsdataverse/hoopR-nba-stats-raw/0bca6cf72d9f879140148882657affc1591efd13/nba_stats/json/gamerotation/2025/0022401162.json"
+    },
+    {
+      "game_id": "0022501029",
+      "source": "https://raw.githubusercontent.com/sportsdataverse/hoopR-nba-stats-raw/0bca6cf72d9f879140148882657affc1591efd13/nba_stats/json/gamerotation/2026/0022501029.json"
+    }
+  ]
+}

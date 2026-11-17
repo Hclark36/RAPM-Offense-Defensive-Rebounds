@@ -1,1 +1,39 @@
+# RStudio and local R state
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.Rapp.history
+.Rlib/
+renv/library/
+renv/staging/
 
+# Local environment configuration
+.Renviron
+.env
+.env.*
+!.env.example
+
+# Downloaded source data and processed caches
+/data/raw/**
+!/data/raw/.gitkeep
+/data/processed/**
+!/data/processed/.gitkeep
+
+# Reproducible generated analysis, predictions, and reports
+/output/
+
+# Temporary downloads, saves, and editor files
+*.download
+*.tmp
+*.swp
+*.swo
+*~
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Track R source, .Rproj, reference JSON, curated results,
+# and docs/index.html (the GitHub Pages dashboard).
